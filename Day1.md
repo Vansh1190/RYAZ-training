@@ -15,6 +15,7 @@
 10. at 6 i got an error while deploying to github pages, i am not able to deploy my project on github.
 11. so i choose vercel finally i submitted the link to my applicaiton till 7:00 PM
 12. finished my first task of building a countdown timer.
+13. @panda sir wants the fully same design so i started it again at 9:15 PM and worked till 11 PM. but i am stucking in Flip animation part. So i leave it for tomorrow.
 
 ### EOD
-* worked for 7:30 hrs till now.
+* worked for 9:15 hrs till now.
