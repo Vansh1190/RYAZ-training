@@ -18,4 +18,4 @@
 13. @panda sir wants the fully same design so i started it again at 9:15 PM and worked till 11 PM. but i am stucking in Flip animation part. So i leave it for tomorrow.
 
 ### EOD
-* worked for 9:15 hrs till now.
+* worked for 9:15 hrs this Day.
